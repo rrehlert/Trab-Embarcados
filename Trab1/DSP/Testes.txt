@@ -1,0 +1,5 @@
+BF548
+
+Tree Sorting: 1289788 ciclos
+State Machine: 2992201 ciclos
+Matriz: 28284 ciclos

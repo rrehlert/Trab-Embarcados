@@ -1,0 +1,5 @@
+AT89S51
+
+TreeSorting: 68353014 Cycles #
+ATM states: 129151652 Cycles #
+Matriz 4x4: 322484 ciclos 
